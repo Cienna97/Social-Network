@@ -20,9 +20,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 # Usage
 
+MongoDB
+
+Express.js
+
+Mongoose
+
+NOSQL
+
 # Links
 
-Github: 
+Github: https://github.com/Cienna97/Social-Network.git
 
 Video Links:
 
@@ -31,4 +39,7 @@ Video Links:
 Screenshots can be found in the screenshot folder within the application
 
 # Future Development
+
+For future development on this application I would like to complete the "remove a user's associated thoughts when deleted
+
 
