@@ -38,8 +38,9 @@ createdAt: {
 {
     toJSON: {
         getters: true
-    }
+    },
+    id: false
 }
-)
+);
 
 module.exports = reactionSchema
