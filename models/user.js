@@ -1,6 +1,11 @@
+const {Schema, model} = require('mongoose');
 //username
 //string, unique, required, trimmed
-
+const userSchema = new Schema(
+    {
+        
+    }
+)
 //email
 //string, required, unique, Must match a valid email address (look into Mongoose's matching validation)
 
