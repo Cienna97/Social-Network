@@ -32,7 +32,15 @@ NOSQL
 
 Github: https://github.com/Cienna97/Social-Network.git
 
-Video Links:
+Video Links: https://watch.screencastify.com/v/yVl4whqXzyFyTf6GKRfh
+
+https://watch.screencastify.com/v/ZP6E20vcGrIhBDMrSyx4
+
+https://watch.screencastify.com/v/hPFIv1C7FOWpbMBBwXYo
+
+https://watch.screencastify.com/v/XpqBLK5FyzTmsJCYyC8I
+
+https://watch.screencastify.com/v/yDHpEwHxhPyXoPy51Xsj
 
 # Screenshot
 
